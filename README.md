@@ -1,5 +1,5 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm RosenYin. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm RosenYin." src="./assets/gh-readme-header.png" /></a></p>
+<br />
 <!--
 **RosenYin/RosenYin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
